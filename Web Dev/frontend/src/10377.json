@@ -1,13 +1,13 @@
 {
   "_id": "5b21ca3eeb7f6fbccd471814",
-  "name": "Priyanshu kumar",
+  "name": "Rahul Harlalka",
   "roll": "BTECH/10377/18",
   "branch": "IT",
   "subjects": [
     {
       "_id": "5b21ca3eeb7f6fbccd471815",
       "name": "DISCRETE MATHS",
-      "present": 40,
+      "present": 43,
       "absent": "15",
       "smilee": "true"
     },
